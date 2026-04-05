@@ -2,7 +2,7 @@
 
 ** Senior Digital Transformation Lead | AI & Analytics | APAC **
 
-📍 Kaohsiung, Taiwan  
+📍 Taiwan  
 🔗 [LinkedIn](https://www.linkedin.com/in/jarrano)  
 🌐 [Portfolio](https://codebasics.io/portfolio/Jorge-Arrao)
 
