@@ -1,6 +1,6 @@
 # Jorge Arraño (艾宥承)
 
-** Senior Digital Transformation Lead | AI & Analytics | APAC **
+**Senior Digital Transformation Lead | AI & Analytics | APAC**
 
 📍 Taiwan  
 🔗 [LinkedIn](https://www.linkedin.com/in/jarrano)  
