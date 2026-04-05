@@ -1,16 +1,42 @@
-## Hi there 👋
+# Jorge Arraño (艾宥承)
 
-<!--
-**jarrano/jarrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Senior Digital Transformation Lead | AI & Analytics | APAC **
 
-Here are some ideas to get you started:
+📍 Kaohsiung, Taiwan  
+🔗 [LinkedIn](https://www.linkedin.com/in/jarrano)  
+🌐 [Portfolio](https://codebasics.io/portfolio/Jorge-Arrao)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Transformation leader with 15+ years of experience across APAC 
+and Latin America. I work at the intersection of business strategy, 
+data, and AI — designing operating models, integrating analytics 
+into business strategy, and leading the adoption of AI-enabled 
+tools across markets.
+
+Currently building hands-on technical depth in SQL, Python, 
+and AI frameworks.
+
+---
+
+## Technical Projects
+
+| Project | Tools | Domain |
+|---|---|---|
+| [SQL Data Analytics — AtliQ Hardware](link) | MySQL · Stored Procedures · Window Functions | Consumer Electronics |
+| [Business Insights 360](link) | Power BI · MySQL · DAX | Finance · Sales · Supply Chain |
+| [Revenue Forecasting](link) | Minitab · Power BI · Six Sigma | Hospitality |
+
+---
+
+## Certifications
+- ✅ Lean Six Sigma Black Belt — Universidad de Chile
+- ✅ Lean Six Sigma Green Belt — Purdue University
+- ✅ SQL Beginner to Advanced for Data Professionals — Codebasics (Apr 2026)
+- ✅ Power BI Data Analytics for All Levels — Codebasics (Jan 2025)
+- ✅ Excel: Mother of Business Intelligence — Codebasics (Feb 2024)
+- ✅ Certified ScrumMaster® (CSM) — Scrum Alliance (expired; renewal pending)
+- ✅ Generative AI Overview for Project Managers — PMI (Jul 2025)
+- 🔄 CPMAI™ v7  — Cognitive Project Management in AI (in progress)
