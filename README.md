@@ -25,9 +25,9 @@ and AI frameworks.
 
 | Project | Tools | Domain |
 |---|---|---|
-| [SQL Data Analytics — AtliQ Hardware](link) | MySQL · Stored Procedures · Window Functions | Consumer Electronics |
-| [Business Insights 360](link) | Power BI · MySQL · DAX | Finance · Sales · Supply Chain |
-| [Revenue Forecasting](link) | Minitab · Power BI · Six Sigma | Hospitality |
+| [SQL Data Analytics — AtliQ Hardware](https://github.com/jarrano/sql-data-analytics-atliq-hardware) | MySQL · Stored Procedures · Window Functions | Consumer Electronics |
+| [Business Insights 360](https://codebasics.io/portfolio/Jorge-Arrao) | Power BI · MySQL · DAX | Finance · Sales · Supply Chain |
+| [Revenue Forecasting](https://codebasics.io/portfolio/Jorge-Arrao) | Minitab · Power BI · Six Sigma | Hospitality |
 
 ---
 
