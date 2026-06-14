@@ -4,7 +4,7 @@
 
 📍 Taiwan  
 🔗 [LinkedIn](https://www.linkedin.com/in/jarrano)  
-🌐 [Portfolio](https://codebasics.io/portfolio/Jorge-Arrao)
+🌐 [Portfolio](https://codebasics.io/portfolio/jarrano)
 
 ---
 
