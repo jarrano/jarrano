@@ -27,8 +27,8 @@ and AI frameworks.
 | --- | --- | --- |
 | [AtliQ Grands Hospitality EDA](https://github.com/jarrano/atliq-grands-hospitality-eda) | Python · Pandas · Matplotlib | Hospitality |
 | [SQL Data Analytics — AtliQ Hardware](https://github.com/jarrano/sql-data-analytics-atliq-hardware) | MySQL · Stored Procedures · Window Functions | Consumer Electronics |
-| [Business Insights 360](https://codebasics.io/portfolio/jarrano) | Power BI · MySQL · DAX | Finance · Sales · Supply Chain |
-| [Revenue Forecasting](https://codebasics.io/portfolio/jarrano) | Minitab · Power BI · Six Sigma | Hospitality |
+| [Business Insights 360](https://github.com/jarrano/powerbi-business-insights-360) | Power BI · MySQL · DAX | Finance · Sales · Supply Chain |
+| [Revenue Forecasting](https://www.linkedin.com/pulse/forecast-facts-optimizing-revenue-through-predictive-jorge-a-%E8%89%BE%E6%9D%B0--9o8yc/) | Minitab · Power BI · Six Sigma | Hospitality |
 
 ---
 
